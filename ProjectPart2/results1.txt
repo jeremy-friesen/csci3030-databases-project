@@ -1,0 +1,20 @@
+1.a)
+"1"	"1"	"1"	"New York University"	"Todd"	"Phillips"	"1970"
+b)
+"3"	"1975-07-31"	"Jaws"	"Shark attack"	"7000000"	"80"	[null]
+c)
+"1"	[null]	[null]	[null]				"Joaquin"	"Phoenix"	"1974-10-28"	"Blue"
+"2"	"2"	"2"	"California State University"	"Tom"		"Hanks"		"1956-07-09"	"Purple"
+"3"	[null]	[null	[null]				"Mark"		"Hamill"	"1951-09-25"	[null]
+c) i.->v.
+"55000000"	"73150000.00"	"5940000000"	"3520000000"	"50050000.00"	"55000000"
+"18000000"	"23940000.00"	"1944000000"	"1152000000"	"16380000.00"	"18000000"
+"7000000"	"9310000.00"	"756000000"	"448000000"	"6370000.00"	"7000000"
+"55000000"	"73150000.00"	"5940000000"	"3520000000"	"50050000.00"	"55000000"
+d)
+"1"	"1"	"1"	"New York University"	"Todd"		"Phillips"	"1970"
+"3"	[null]	[null]	[null]			"Steven"	"Spielberg"	"1946"
+e)
+"1"	"2019-10-04"	"Joker"	"Crazy man shoots people"	"55000000"	"88"	"874500000"
+f)
+"Hemsworth"	"Phoenix"

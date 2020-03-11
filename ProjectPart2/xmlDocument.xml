@@ -1,0 +1,70 @@
+<MOVIES>
+  <MOVIE>
+    <NAME>Titanic</NAME>
+    <CAST>
+      <ACTOR>
+        <NAME>Leonardo DiCaprio</NAME>
+        <AGE>45</AGE>
+        <CITY>LA</CITY>
+        <HEIGHT>2.2</HEIGHT>
+      </ACTOR>
+      <ACTOR>
+        <NAME>Kate Winslet</NAME>
+        <AGE>44</AGE>
+        <CITY>New York</CITY>
+        <HEIGHT>1.8</HEIGHT>
+      </ACTOR>
+    </CAST>
+    <YEAR>1990</YEAR>
+    <DIRECTOR>James Cameron</DIRECTOR>
+    <BUDGET>200000000</BUDGET>
+    <RATING>7</RATING>
+    <DURATION>1.45</DURATION>
+  </MOVIE>
+  
+  <MOVIE>
+    <NAME>Empire Strikes Back</NAME>
+    <CAST>
+      <ACTOR>
+        <NAME>Luke Skywalker</NAME>
+        <AGE>26</AGE>
+        <CITY>Desert Planet</CITY>
+        <HEIGHT>1.98</HEIGHT>
+      </ACTOR>
+      <ACTOR>
+        <NAME>Harrison Ford</NAME>
+        <AGE>58</AGE>
+        <CITY>Denver</CITY>
+        <HEIGHT>1.9</HEIGHT>
+      </ACTOR>
+    </CAST>
+    <YEAR>1981</YEAR>
+    <DIRECTOR>Some Guy</DIRECTOR>
+    <BUDGET>7000000</BUDGET>
+    <RATING>10</RATING>
+    <DURATION>1.59</DURATION>
+  </MOVIE>
+  
+  <MOVIE>
+      <NAME>Joker</NAME>
+    	<CAST>
+  		  <ACTOR>
+          <NAME>Jauquin Phoenix</NAME>
+          <AGE>45</AGE>
+          <CITY>New York</CITY>
+          <HEIGHT>1.83</HEIGHT>
+          </ACTOR>
+        <ACTOR>
+          <NAME>Zazie Beetz</NAME>
+          <AGE>34</AGE>
+          <CITY>Washington DC</CITY>
+          <HEIGHT>1.9</HEIGHT>
+        </ACTOR>
+     	</CAST>
+    	<YEAR>2018</YEAR>
+      	<DIRECTOR>Todd Philips</DIRECTOR>
+      	<BUDGET>5000000</BUDGET>
+      	<RATING>8.9</RATING>
+      	<DURATION>1.31</DURATION>
+  	</MOVIE>
+<MOVIES/>

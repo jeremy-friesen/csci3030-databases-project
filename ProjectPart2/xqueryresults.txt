@@ -1,0 +1,42 @@
+1.a)
+Bud
+			2.50
+Miller
+			3.00
+1.b)
+Miller
+			3.00
+3.a)
+
+	Mark Hamill
+  	 26
+   	 Desert Planet
+      	1.98
+        	  	
+
+      	Zazie Beetz
+      	34
+      	Washington DC
+      	1.9
+3.b)
+Joker
+    	
+  		
+      			Jauquin Phoenix
+      			45
+      			New York
+      			1.83
+          	
+      		
+      			Zazie Beetz
+      			34
+      			Washington DC
+      			1.9
+            	
+     	
+    	2018
+      	Todd Philips
+      	5000000
+      	8.9
+      	1.31
+  	
